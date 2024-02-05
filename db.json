@@ -1,0 +1,148 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "categoria": "Guajolotas",
+            "extra": {
+                "sabores": [
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146771/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/pi%C3%B1a_e20ere.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146771/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/guayaba_l3kerp.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/verde_tkvipt.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/rajas_kjrrug.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/mole_rxcg6p.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/pasas_qmmlfe.png"
+                ]
+            },
+            "items": [
+                {
+                    "id": 101,
+                    "nombre": "Verde",
+                    "precio": "$25 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705523935/Imagenes%20Opciones%20Comida/Guajolotas/Verde/G-VERDE_hdqs81.png"
+                },
+                {
+                    "id": 102,
+                    "nombre": "Mole",
+                    "precio": "$25 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705523935/Imagenes%20Opciones%20Comida/Guajolotas/Verde/G-VERDE_hdqs81.png"
+                },
+                {
+                    "id": 103,
+                    "nombre": "Guayaba",
+                    "precio": "$25 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705523932/Imagenes%20Opciones%20Comida/Guajolotas/Guayaba/G-GUAYABA_hivs89.png"
+                },
+                {
+                    "id": 104,
+                    "nombre": "Piña",
+                    "precio": "$25 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705523934/Imagenes%20Opciones%20Comida/Guajolotas/Pi%C3%B1a/G-PI%C3%91A_mrodhz.png"
+                },
+                {
+                    "id": 105,
+                    "nombre": "Pasas",
+                    "precio": "$25 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705523933/Imagenes%20Opciones%20Comida/Guajolotas/Pasas/G-PASAS_fhvdon.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "Bebidas",
+            "items": [
+                {
+                    "id": 201,
+                    "nombre": "Champurrado",
+                    "precio": "$12 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Bebidas/Champurrado/B-CHAMPURRADO_zqxqqx.png"
+                },
+                {
+                    "id": 202,
+                    "nombre": "Atole de Arroz con Leche",
+                    "precio": "$12 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Bebidas/Atole%20Arroz/B-ARROZ_CON_LECHE_zkvevq.png"
+                },
+                {
+                    "id": 203,
+                    "nombre": "Café Negro",
+                    "precio": "$12 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Bebidas/Cafe%20Negro/B-CAFE_o7kgs5.png"
+                },
+                {
+                    "id": 204,
+                    "nombre": "Chocolate Caliente",
+                    "precio": "$12 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522953/Imagenes%20Opciones%20Comida/Bebidas/Chocolate%20Caliente/B-CHOCOLATE_ng3ejr.png"
+                }
+            ],
+            "sourcs": {
+                "Imagenes": [
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Bebidas/Champurrado/B-CHAMPURRADO_zqxqqx.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Bebidas/Atole%20Arroz/B-ARROZ_CON_LECHE_zkvevq.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Bebidas/Cafe%20Negro/B-CAFE_o7kgs5.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522953/Imagenes%20Opciones%20Comida/Bebidas/Chocolate%20Caliente/B-CHOCOLATE_ng3ejr.png"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "categoria": "Tamales",
+            "extra": {
+                "sabores": [
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146771/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/pi%C3%B1a_e20ere.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146771/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/guayaba_l3kerp.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/verde_tkvipt.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/rajas_kjrrug.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/mole_rxcg6p.png",
+                    "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1706146770/Imagenes%20Opciones%20Comida/Sabores/Guajolotas/pasas_qmmlfe.png"
+                ]
+            },
+            "items": [
+                {
+                    "id": 301,
+                    "nombre": "Tamal Verde",
+                    "precio": "$14 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522953/Imagenes%20Opciones%20Comida/Tamales/Tamal%20Verde/T-VERDE_oewtf9.png"
+                },
+                {
+                    "id": 302,
+                    "nombre": "Tamal de Mole",
+                    "precio": "$14 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522953/Imagenes%20Opciones%20Comida/Tamales/Tamal%20Mote/T-MOLE_mqij2r.png"
+                },
+                {
+                    "id": 303,
+                    "nombre": "Tamal de Guayaba",
+                    "precio": "$14 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522952/Imagenes%20Opciones%20Comida/Tamales/Tamal%20Guayaba/TD-GUAYABA_swssal.png"
+                },
+                {
+                    "id": 304,
+                    "nombre": "Tamal de Piña",
+                    "precio": "$14 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522953/Imagenes%20Opciones%20Comida/Tamales/Tamal%20Pi%C3%B1a/TD-PI%C3%91A_f9m3le.png"
+                },
+                {
+                    "id": 305,
+                    "nombre": "Tamal de Pasas",
+                    "precio": "$14 MXN",
+                    "imagen": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1705522953/Imagenes%20Opciones%20Comida/Tamales/Tamal%20Pasas/TD-PASAS_iu0qqj.png"
+                }
+            ]
+        }
+    ],
+    "Carrito": [
+        {
+            "id": 301,
+            "id_productos": "|3/12:3|3:2"
+        }
+    ],
+    "user": [
+        {
+            "nombre": "d",
+            "correo": "d",
+            "telefono": "d",
+            "contraseña": "d"
+        }
+    ]
+}
