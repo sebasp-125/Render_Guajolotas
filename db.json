@@ -139,10 +139,8 @@
     ],
     "user": [
         {
-            "nombre": "d",
-            "correo": "d",
-            "telefono": "d",
-            "contraseña": "d"
+            "username": "",
+            "password": ""
         }
     ]
 }
